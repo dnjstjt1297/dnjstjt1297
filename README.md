@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ui/header-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="assets/ui/header-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ui/header-dark.svg" />
-  <img src="assets/ui/header-light.svg" alt="김원석 · Java and Spring backend developer" width="840" />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ui/identity-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="assets/ui/identity-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ui/identity-dark.svg" />
+  <img src="assets/ui/identity-light.svg" alt="Won Seok · Backed Development" width="840" />
 </picture>
 
 <h3>Algorithm</h3>
