@@ -42,6 +42,9 @@
 
 <p>
   <a href="https://velog.io/@dnjstjt1297/posts" title="Read my tech blog on Velog">
-    <img src="assets/ui/blog-sky-light.svg" alt="Velog tech blog" width="152" height="36" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/ui/blog-muted-dark.svg" />
+      <img src="assets/ui/blog-muted-light.svg" alt="Velog tech blog" width="152" height="36" />
+    </picture>
   </a>
 </p>
