@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ui/wordmark-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="assets/ui/wordmark-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ui/wordmark-dark.svg" />
-  <img src="assets/ui/wordmark-light.svg" alt="Won Seok · Backed Development" width="840" />
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/ui/intro-mobile-dark.svg" />
+  <source media="(max-width: 600px)" srcset="assets/ui/intro-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ui/intro-dark.svg" />
+  <img src="assets/ui/intro-light.svg" alt="Won Seok · Backed Development" width="840" />
 </picture>
 
 <h3>Algorithm</h3>
