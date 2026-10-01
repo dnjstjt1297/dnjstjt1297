@@ -42,6 +42,6 @@
 
 <p>
   <a href="https://velog.io/@dnjstjt1297/posts" title="Read my tech blog on Velog">
-    <img src="assets/ui/blog.svg" alt="Velog tech blog" width="152" height="36" />
+    <img src="assets/ui/blog-sky.svg" alt="Velog tech blog" width="152" height="36" />
   </a>
 </p>
