@@ -39,7 +39,7 @@
   </a>
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
     <img
-      src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/certification/approved/images/certification-badges/saa-badge-resized.81aa49f64034b69db1ee58c09661659d0a1edab4.png"
+      src="assets/ui/saa-transparent.png"
       alt="AWS Certified Solutions Architect - Associate"
       width="160"
     />
